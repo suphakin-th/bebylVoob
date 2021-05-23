@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bebylVoob
+- 👀 I’m interested in 0 and 1 language
+- 🌱 I’m currently learning Image processing with python
+- 💞️ I’m looking to collaborate on backend programer
